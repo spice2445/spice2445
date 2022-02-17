@@ -1,20 +1,9 @@
-## Hi there 👋 I'm a Full-Stack developer
+## Hi there 👋 I'm a React Frontend developer
 
-<a href="https://www.youtube.com/c/DjangoSchool">
-  <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
-<a href="https://t.me/DJWOMS">
+<a href="https://t.me/donttellthemmyname">
   <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
 </a>
-<a href="https://discord.gg/v36E3cWx">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/MikeOmelchenko">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/michael-omelchenko-100453156/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 </br>
 
@@ -24,9 +13,9 @@
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
+![Redux](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![React-Router](https://img.shields.io/badge/React Router-red?style=flat-square&logo=Router)
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django)
 ![DCRF](https://img.shields.io/badge/-DCRF-46a2f1?style=flat-square&logo=Django)
 ![Django Ninja](https://img.shields.io/badge/-Django_Ninja-%234B32C3?style=flat-square&logo=Django)
